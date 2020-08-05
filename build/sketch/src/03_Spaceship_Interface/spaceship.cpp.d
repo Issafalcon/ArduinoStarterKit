@@ -1,5 +1,5 @@
-c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\sketch\src\03_Spaceship_Interface\spaceship.cpp.o: \
- c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\sketch\src\03_Spaceship_Interface\spaceship.cpp \
+c:\Coding\Arduino\Starter\ Kit\ Projects\build\sketch\src\03_Spaceship_Interface\spaceship.cpp.o: \
+ c:\Coding\Arduino\Starter\ Kit\ Projects\build\sketch\src\03_Spaceship_Interface\spaceship.cpp \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \
@@ -11,4 +11,4 @@ c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\sketch
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/USBAPI.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\variants\standard/pins_arduino.h \
- c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\sketch\src\03_Spaceship_Interface\spaceship.h
+ c:\Coding\Arduino\Starter\ Kit\ Projects\build\sketch\src\03_Spaceship_Interface\spaceship.h

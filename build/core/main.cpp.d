@@ -1,4 +1,4 @@
-c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\core\main.cpp.o: \
+c:\Coding\Arduino\Starter\ Kit\ Projects\build\core\main.cpp.o: \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino\main.cpp \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h \

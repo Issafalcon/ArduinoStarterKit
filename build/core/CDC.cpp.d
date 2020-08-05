@@ -1,4 +1,4 @@
-c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\core\CDC.cpp.o: \
+c:\Coding\Arduino\Starter\ Kit\ Projects\build\core\CDC.cpp.o: \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino\CDC.cpp \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino\USBAPI.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino\Arduino.h \

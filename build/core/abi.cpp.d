@@ -1,2 +1,2 @@
-c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\core\abi.cpp.o: \
+c:\Coding\Arduino\Starter\ Kit\ Projects\build\core\abi.cpp.o: \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino\abi.cpp

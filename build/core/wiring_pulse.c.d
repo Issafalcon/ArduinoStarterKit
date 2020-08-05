@@ -1,4 +1,4 @@
-c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\core\wiring_pulse.c.o: \
+c:\Coding\Arduino\Starter\ Kit\ Projects\build\core\wiring_pulse.c.o: \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino\wiring_pulse.c \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino\wiring_private.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino\Arduino.h \

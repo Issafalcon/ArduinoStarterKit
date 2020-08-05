@@ -1,5 +1,5 @@
-c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\sketch\src\04_Love-o-meter\loveOMeter.cpp.o: \
- c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\sketch\src\04_Love-o-meter\loveOMeter.cpp \
+c:\Coding\Arduino\Starter\ Kit\ Projects\build\sketch\src\04_Love-o-meter\loveOMeter.cpp.o: \
+ c:\Coding\Arduino\Starter\ Kit\ Projects\build\sketch\src\04_Love-o-meter\loveOMeter.cpp \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \
@@ -11,4 +11,4 @@ c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\sketch
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/USBAPI.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\variants\standard/pins_arduino.h \
- c:\users\atfig\documents\platformio\projects\starter\ kit\ projects\build\sketch\src\04_love-o-meter\loveometer.h
+ c:\coding\arduino\starter\ kit\ projects\build\sketch\src\04_love-o-meter\loveometer.h

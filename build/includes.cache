@@ -10,32 +10,37 @@
     "Includepath": "C:\\Program Files (x86)\\Arduino\\hardware\\arduino\\avr\\variants\\standard"
   },
   {
-    "Sourcefile": "c:\\Users\\atfig\\Documents\\PlatformIO\\Projects\\Starter Kit Projects\\build\\sketch\\app.ino.cpp",
+    "Sourcefile": "c:\\Coding\\Arduino\\Starter Kit Projects\\build\\sketch\\app.ino.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "c:\\Users\\atfig\\Documents\\PlatformIO\\Projects\\Starter Kit Projects\\build\\sketch\\src\\03_Spaceship_Interface\\spaceship.cpp",
+    "Sourcefile": "c:\\Coding\\Arduino\\Starter Kit Projects\\build\\sketch\\src\\03_Spaceship_Interface\\spaceship.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "c:\\Users\\atfig\\Documents\\PlatformIO\\Projects\\Starter Kit Projects\\build\\sketch\\src\\04_Love-o-meter\\loveOMeter.cpp",
+    "Sourcefile": "c:\\Coding\\Arduino\\Starter Kit Projects\\build\\sketch\\src\\04_Love-o-meter\\loveOMeter.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "c:\\Users\\atfig\\Documents\\PlatformIO\\Projects\\Starter Kit Projects\\build\\sketch\\src\\05_Color_mixer_lamp\\colorMixer.cpp",
+    "Sourcefile": "c:\\Coding\\Arduino\\Starter Kit Projects\\build\\sketch\\src\\05_Color_mixer_lamp\\colorMixer.cpp",
     "Include": "",
     "Includepath": null
   },
   {
-    "Sourcefile": "c:\\Users\\atfig\\Documents\\PlatformIO\\Projects\\Starter Kit Projects\\build\\sketch\\src\\06_Servo_Motor\\servoMotor.cpp",
+    "Sourcefile": "c:\\Coding\\Arduino\\Starter Kit Projects\\build\\sketch\\src\\06_Servo_Motor\\servoMotor.cpp",
     "Include": "Servo.h",
     "Includepath": "C:\\Users\\atfig\\Documents\\Arduino\\libraries\\Servo\\src"
   },
   {
-    "Sourcefile": "c:\\Users\\atfig\\Documents\\PlatformIO\\Projects\\Starter Kit Projects\\build\\sketch\\src\\06_Servo_Motor\\servoMotor.cpp",
+    "Sourcefile": "c:\\Coding\\Arduino\\Starter Kit Projects\\build\\sketch\\src\\06_Servo_Motor\\servoMotor.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "c:\\Coding\\Arduino\\Starter Kit Projects\\build\\sketch\\src\\07_Light_Theremin\\lightTheremin.cpp",
     "Include": "",
     "Includepath": null
   },

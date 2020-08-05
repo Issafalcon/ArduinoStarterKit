@@ -1,6 +1,6 @@
-c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\sketch\src\05_Color_mixer_lamp\colorMixer.cpp.o: \
- c:\Users\atfig\Documents\PlatformIO\Projects\Starter\ Kit\ Projects\build\sketch\src\05_Color_mixer_lamp\colorMixer.cpp \
- c:\users\atfig\documents\platformio\projects\starter\ kit\ projects\build\sketch\src\05_color_mixer_lamp\colormixer.h \
+c:\Coding\Arduino\Starter\ Kit\ Projects\build\sketch\src\05_Color_mixer_lamp\colorMixer.cpp.o: \
+ c:\Coding\Arduino\Starter\ Kit\ Projects\build\sketch\src\05_Color_mixer_lamp\colorMixer.cpp \
+ c:\coding\arduino\starter\ kit\ projects\build\sketch\src\05_color_mixer_lamp\colormixer.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/Arduino.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/binary.h \
  C:\Program\ Files\ (x86)\Arduino\hardware\arduino\avr\cores\arduino/WCharacter.h \

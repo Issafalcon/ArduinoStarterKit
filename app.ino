@@ -1,11 +1,11 @@
-#include "./src/06_Servo_Motor/servoMotor.h"
+#include "./src/07_Light_Theremin/lightTheremin.h"
 
 void setup()
 {
-	initializeServo();
+	initializeTheremin();
 }
 
 void loop()
 {
-	performServoLoop();
+	performThereminLoop();
 }
