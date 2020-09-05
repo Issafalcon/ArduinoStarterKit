@@ -1,2 +1,0 @@
-void InitialiseShip();
-void LoopInterface();

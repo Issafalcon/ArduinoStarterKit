@@ -1,11 +1,11 @@
-#include "./src/07_Light_Theremin/lightTheremin.h"
+#include "src/08_Digital_Hourglass/hourGlass.h"
 
 void setup()
 {
-	initializeTheremin();
+	initializeHourglass();
 }
 
 void loop()
 {
-	performThereminLoop();
+	performHourGlassLoop();
 }
