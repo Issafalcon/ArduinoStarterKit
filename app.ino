@@ -1,11 +1,11 @@
-#include "src/08_Digital_Hourglass/hourGlass.h"
+#include "src/09_PinWheel/pinwheel.h"
 
 void setup()
 {
-	initializeHourglass();
+	initPinwheel();
 }
 
 void loop()
 {
-	performHourGlassLoop();
+	loopPinwheel();
 }
